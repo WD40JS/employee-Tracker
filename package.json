@@ -1,5 +1,5 @@
 {
-  "name": "mysql-employee-tracker",
+  "name": "employee-tracker",
   "version": "1.0.0",
   "description": "Developers are often tasked with creating interfaces that make it easy for non-developers to view and interact with information stored in databases. Often these interfaces are known as Content Management Systems. This command line application is a solution for managing a company's employees using node, inquirer, and MySQL.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ethanlloyd21/MySQL-Employee-Tracker.git"
+    "url": "git+https://github.com/WD40JS/employee-Tracker"
   },
   "author": "",
   "license": "ISC",
